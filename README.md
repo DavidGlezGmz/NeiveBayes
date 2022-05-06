@@ -6,12 +6,8 @@ A Naive Bayes classifier is a probabilistic machine learning model that’s used
 Using Bayes theorem, we can find the probability of A happening, given that B has occurred. Here, B is the evidence and A is the hypothesis. The assumption made here is that the predictors/features are independent. That is presence of one particular feature does not affect the other. Hence it is called naive.
 (From Towards Data Science / Rohith Gandhi: https://towardsdatascience.com/naive-bayes-classifier-81d512f50a7c).
 
-#### Continuous Value Data Generation
-Generatation of 200 random values, distributed around 20. Plotting the histogram will generate a not linear distribution...
+### Use Case
+A database is used with the registration of "height" and "weight" of 1000 people. The classification (supervised) is binary 0 or 1 depending on whether it is male or female.
 
-
-
-#### Simple Linear Regression
-Simple linear regression is used to model the relationship between two continuous variables. Often, the objective is to predict the value of an output variable (or response) based on the value of an input (or predictor) variable.
-(From BIO Statistics Collaboration of Australia: https://www.jmp.com/en_sg/statistics-knowledge-portal/what-is-regression.html).
-![image](https://user-images.githubusercontent.com/86708470/167184707-8242ac9f-458b-43b8-8e5d-56915a997109.png)
+![image](https://user-images.githubusercontent.com/86708470/167209030-c4f5492a-d757-43f4-ac6a-230f67616319.png)
+![image](https://user-images.githubusercontent.com/86708470/167208995-64b81a1a-2d07-4160-912a-f7861f3c89d9.png)
