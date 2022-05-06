@@ -10,4 +10,4 @@ Using Bayes theorem, we can find the probability of A happening, given that B ha
 A database is used with the registration of "height" and "weight" of 1000 people. The classification (supervised) is binary 0 or 1 depending on whether it is male or female.
 
 ![image](https://user-images.githubusercontent.com/86708470/167209030-c4f5492a-d757-43f4-ac6a-230f67616319.png)
-![image](https://user-images.githubusercontent.com/86708470/167208995-64b81a1a-2d07-4160-912a-f7861f3c89d9.png)
+![image](https://user-images.githubusercontent.com/86708470/167209119-49f6ec43-9d78-4d44-8f28-c6824f6bee22.png)
