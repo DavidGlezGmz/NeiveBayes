@@ -11,3 +11,14 @@ A database is used with the registration of "height" and "weight" of 1000 people
 
 ![image](https://user-images.githubusercontent.com/86708470/167209030-c4f5492a-d757-43f4-ac6a-230f67616319.png)
 ![image](https://user-images.githubusercontent.com/86708470/167209194-3a8e2bc7-0cc6-468f-85e0-8530d6affcce.png)
+
+
+## MNIST handwritten image classification with Naive Bayes
+MNIST dataset with 60000 train data and 10000 test data. It is one of the most commonly used datasets for Machine Learning. Each image in both training and test set is a grey scale image of dimension 28x28 pixels. Is a large database of handwritten digits from 0–9.
+
+![image](https://user-images.githubusercontent.com/86708470/170129206-5e202ee2-4c9d-49be-9e09-108d851b30a7.png)
+
+The problem involves building a Naive Bayes classifier on MNIST dataset. Results include confusion matrix, accuracy of each digit, and over accuracy. It also assumes that probability of each pixel is a Gaussian distribution and the probability of each digit is equal.
+
+### Results.
+![image](https://user-images.githubusercontent.com/86708470/170129421-9f932878-5e09-4bfe-b590-3f606196efe7.png)
